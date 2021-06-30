@@ -1,6 +1,6 @@
 > Status: Done.
 
-### It is a JavaFX application, where I perform the CRUD of Employees and Departments.
+### It's a JavaFX application, where I perform a CRUD of Employees and Departments.
 
 ## Some fields in Department Model is:
 
